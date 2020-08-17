@@ -1,3 +1,9 @@
+# Fast use
+```
+docker pull pablogod/fishcut
+docker container run -p 8501:8501 --rm -d pablogod/fishcut
+```
+
 # Fish YOLO GrabCut
 YOLOv3 object detection then use GrabCut to do semantic segmentation to fish market images.
 
