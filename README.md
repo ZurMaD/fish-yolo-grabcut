@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 
 Then, use `gdown` to download the pretrained weights from [here](https://drive.google.com/file/d/1L6JgzbFhC7Bb_5w_V-stAkPSgMplvsmq/view?usp=sharing) and put it to `yolo-fish` directory:
 ```
-$ gdown --output ./yolo-fish/fish.weights --id 1L6JgzbFhC7Bb_5w_V-stAkPSgMplvsmq
+$ gdown --output ./yolo-fish/fish.weights --id 1M8dKL0mjh5QkdH2UeFQN9RF3pXCV6hao
 ```
 
 Next, choose one of the following approaches you like.
